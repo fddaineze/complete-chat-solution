@@ -1,4 +1,8 @@
-![last commit badge](https://badgen.net/github/last-commit/fddaineze/complete-chat-solution) ![license badge](https://badgen.net/github/license/fddaineze/complete-chat-solution) ![commits badge](https://badgen.net/github/commits/fddaineze/complete-chat-solution) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
+![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/complete-chat-solution)
+![last commit badge](https://badgen.net/github/last-commit/fddaineze/complete-chat-solution)
+![license badge](https://badgen.net/github/license/fddaineze/complete-chat-solution)
+![commits badge](https://badgen.net/github/commits/fddaineze/complete-chat-solution)
+![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
 # Complete Chat Solution
 Uma solução de chat de 3 pontas, que utiliza
